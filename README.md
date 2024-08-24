@@ -33,5 +33,5 @@
 - Pivot Table
 
 ### Dashboard
-- https://github.com/mayankhub935/SalesDashboard_Sql_PowerBi/blob/main/Sales%20Report.pdf and open in Power BI Desktop for interactive viewing.
--  of the Dashboard in pdf.
+- https://github.com/mayankhub935/SalesDashboard_Sql_PowerBi/blob/main/Sales%20Report.pbix and open in Power BI Desktop for interactive viewing.
+- https://github.com/mayankhub935/SalesDashboard_Sql_PowerBi/blob/main/Sales%20Report.pdf of the Dashboard in pdf.
